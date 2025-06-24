@@ -1,0 +1,2 @@
+# TP_1_Procesamiento_Digital_Imagenes
+ Color_Cuantizacion_Segmentacion
